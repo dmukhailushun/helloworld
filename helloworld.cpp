@@ -3,5 +3,5 @@
 #include <stdlib.h>
 #include <iostream>
 int main(){
-std::cout<<"hi world";
+std::cout<<"hi dima";
 	}
